@@ -1,4 +1,5 @@
 import React from 'react'
+import {Cta,Feature,Navbar,Article,Brand} from './components';
 
 function App() {
   return (

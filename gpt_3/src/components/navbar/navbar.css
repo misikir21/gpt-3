@@ -47,7 +47,7 @@
     cursor: pointer;
 }
 
-.gpt3__navbar-sign button,
+/* .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
     padding: 0.5rem 1rem;
     color: #fff;
@@ -131,4 +131,4 @@
     .gpt3__navbar-menu_container-links-sign {
         display: block;
     }
-}
+} */

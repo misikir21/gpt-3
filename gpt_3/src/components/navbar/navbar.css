@@ -38,7 +38,7 @@
     cursor: pointer;
 }
 
-/* .gpt3__navbar-sign button,
+gpt3__navbar-sign button,
 gpt3__navbar-menu_container {
     display: flex;
     justify-content: flex-end;
@@ -60,7 +60,7 @@ gpt3__navbar-menu_container {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-}
+} 
 
 
 .gpt3__navbar-menu_container button {
@@ -76,7 +76,7 @@ gpt3__navbar-menu_container {
     cursor: pointer;
     border-radius: 5px;
 }
-
+/*
 .gpt3__navbar-menu {
     margin-left: 1rem;
 

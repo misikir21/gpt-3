@@ -20,10 +20,10 @@ function Navbar() {
           </div>
     </div>
     <div className="gpt3__navbar-sign">
-      <p>Sign In</p>
-      <button type='button'>Sign Up</button>
+            <p>Sign in</p>
+            <button type="button">Sign up</button>
+          </div>
 
-    </div>
     </div>
   )
 }

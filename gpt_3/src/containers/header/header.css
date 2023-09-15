@@ -1,0 +1,22 @@
+.gpt3__header {
+	display: flex;
+}
+.gpt3__header-content {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	margin-right: 5rem;
+	top: 10rem;
+	position: absolute;
+}
+.gpt3__header-content h1 {
+	font-family: var(--font-family);
+	font-weight: 800;
+	font-size: 62px;
+	font-weight: 800;
+	line-height: 75px;
+	letter-spacing: -0.04em;
+	text-align: left;
+}
